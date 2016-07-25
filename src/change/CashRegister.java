@@ -23,6 +23,7 @@ public class CashRegister {
 		int remainder = amount % denomination;
 		System.out.println(q + " " + denominationName);
 		return remainder;
+		
 	}
 
 }
