@@ -1,5 +1,6 @@
 package change;
 
+// Comment
 public class CashRegister {
 	private static final int QUARTER_AMOUNT = 25;
 	private static final int DIME_AMOUNT = 10;
